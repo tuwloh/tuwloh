@@ -22,15 +22,13 @@
 
 
 ## Frameworks
-**Backend:** Spring Boot, CodeIgniter  
+**Backend:**
+<img src="https://skillicons.dev/icons?i=springboot,codeigniter" title="Backend" />
 
 ## Tools
 **Database:** MySQL, HeidiSQL  
 **Development Tools:** Git, GitHub, Visual Studio Code
-**Design & Media Tools:**
-<p>
-  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" title="CapCut" />
+**Design & Media Tools:** Canva, CapCut
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuwloh&color=yellow)
