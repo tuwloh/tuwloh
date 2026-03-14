@@ -27,8 +27,8 @@
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD0000?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ## Tools
-**Database:** MySQL, HeidiSQL
-**Development Tools:** Git, GitHub, Visual Studio Code
+**Database:** MySQL, HeidiSQL<br>
+**Development Tools:** Git, GitHub, Visual Studio Code<br>
 **Design & Media Tools:** Canva, CapCut
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuwloh&color=yellow)
