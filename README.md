@@ -19,12 +19,21 @@
   <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tuwloh&color=yellow)
 
-## Frameworks & Tools
+
+## Frameworks
 **Backend:** Spring Boot, CodeIgniter  
+
+## Tools
 **Database:** MySQL, HeidiSQL  
 **Development Tools:** Git, GitHub, Visual Studio Code
+**Design & Media Tools:**
+<p>
+  <img src="https://skillicons.dev/icons?i=canva" title="Canva" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" title="CapCut" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tuwloh&color=yellow)
 
 ## About Me
 
