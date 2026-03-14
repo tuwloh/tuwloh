@@ -28,9 +28,7 @@
 
 ## Tools
 **Database:** MySQL, HeidiSQL
-
 **Development Tools:** Git, GitHub, Visual Studio Code
-
 **Design & Media Tools:** Canva, CapCut
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuwloh&color=yellow)
