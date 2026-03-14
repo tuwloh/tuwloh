@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working on video content production at Kedaulatan Rakyat, where I design concepts and edit short-form videos (1-minute) for YouTube Shorts.
-
-- 💻 I'm currently developing and improving my skills as a Full Stack Developer through personal projects and hands-on development.
+- 🔭 I'm currently working on video content production at Kedaulatan Rakyat, where I contribute ideas to content concepts, serve as on-camera talent in informational videos, and edit short-form videos of one minute for YouTube Shorts from concept to final production.
 
 - 🏆 I pitched a Full Stack project that I co-developed with my team, which was selected as a Top 5 Best Project Nominee at the project awarding night on December 4, 2025, organized by Balai Pelatihan SDM Komdigi Yogyakarta, Kementerian Komunikasi dan Digital.
 
+- 📺 Check out my work on [YouTube](https://youtube.com/@tuwloh)
+
+- 🔗 My research and publications can be found on [ORCID](https://orcid.org/0000-0002-6411-6411)
+  
 ## Programming Languages
 
 <p>
@@ -18,6 +20,11 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuwloh&color=yellow)
+
+## Frameworks & Tools
+**Backend:** Spring Boot, CodeIgniter, Node.js  
+**Database:** MySQL, HeidiSQL  
+**Development Tools:** Git, GitHub, Visual Studio Code
 
 ## About Me
 
