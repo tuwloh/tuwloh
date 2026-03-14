@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tuwloh\&color=fulvous)
+![Profile Views](https://komarev.com/ghpvc/?username=tuwloh\&color=yellow)
 
 ## About Me
 
