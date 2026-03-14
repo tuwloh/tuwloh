@@ -29,7 +29,7 @@
 **Development Tools:** Git, GitHub, Visual Studio Code
 **Design & Media Tools:**
 <p>
-  <img src="https://skillicons.dev/icons?i=canva" title="Canva" />
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" title="CapCut" />
 </p>
 
