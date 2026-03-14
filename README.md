@@ -22,7 +22,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tuwloh&color=yellow)
 
 ## Frameworks & Tools
-**Backend:** Spring Boot, CodeIgniter, Node.js  
+**Backend:** Spring Boot, CodeIgniter  
 **Database:** MySQL, HeidiSQL  
 **Development Tools:** Git, GitHub, Visual Studio Code
 
