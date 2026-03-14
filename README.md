@@ -8,6 +8,8 @@
 
 - 🔗 My research and publications can be found on [ORCID](https://orcid.org/0000-0002-6411-6411)
   
+- 🌟 Contributed to [Java Roasted Arena Project Capstone](https://github.com/agusheryanto182/java-roasted-arena) as a Full Stack Developer by implementing interactive features such as comment sections, like buttons, and roasting actions in this web application; this experience strengthened my skills in designing and developing user-facing systems, which are directly transferable to public service applications.
+  
 ## Programming Languages
 
 <p>
