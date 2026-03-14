@@ -29,7 +29,7 @@
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD0000?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ## Tools
-**Database:** MySQL, HeidiSQL<br>
+**Database Tools:** MySQL, HeidiSQL<br>
 **Development Tools:** Git, GitHub, Visual Studio Code<br>
 **Design & Media Tools:** Canva, CapCut
 
