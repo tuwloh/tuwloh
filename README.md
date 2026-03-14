@@ -23,7 +23,8 @@
 
 ## Frameworks
 **Backend:**
-<img src="https://skillicons.dev/icons?i=springboot,codeigniter" title="Backend" />
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD0000?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ## Tools
 **Database:** MySQL, HeidiSQL  
